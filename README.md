@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The first challenge I faced was installing xcode to my device. Once I got that worked out, I had a minor challenge where I was having difficulty adding the additional feature to have multiple members in the party split the bill. I ended up having to go into the view controller to make sure everything was connected properly.
 
 ## License
 
